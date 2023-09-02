@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">UxMaterial3Sample</string>
+    <string name="title_activity_text_field">TExtField</string>
+    <string name="title_activity_selection_components">SelectionComponents</string>
+</resources>
